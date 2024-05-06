@@ -6,4 +6,4 @@
 • Produced JavaDoc by providing meaningful comments for each method.
 • Engineered the backend logic and utilized Java's exception handling to ensure robustness against erroneous inputs.
 ## UML Diagram
-![uml](image/uml.png)
+![uml](image/UML.png)
