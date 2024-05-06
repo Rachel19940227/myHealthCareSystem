@@ -14,3 +14,7 @@
 ![uml](image/Junit.png)
 - Also, Created a new method in the MedicalCalculator class named incorrectBMI(). In this method, calculate the BMI but deliberately introduce an error in the math. Use JUnit test for this method and it has a failure of this method .
 ![uml](image/wrong.png)
+
+## TestDemo
+- Use the given data from the instruction and print all EMR from each patients.
+![uml](image/TestDemo.png)
