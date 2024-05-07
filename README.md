@@ -1,5 +1,5 @@
 # myHealthCareSystem
-✨ Build a health care system that can track Electronic Health Records of patients.
+✨ Build a health care system that can track Electronic Health Records of patients. Wrote JUnit test to test methods, produced meaningful comments for JavaDoc.
 ## Features
 - Managed Records efficiently by capturing and processing patient data and facilitated the calculation of health metrics like BMI and heart rate.
 - Wrote the test plan and implemented Java Unit (JUnit) Testing to test methods.
